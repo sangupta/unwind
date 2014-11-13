@@ -45,7 +45,7 @@ The library can be downloaded from Maven Central using:
 ```xml
 <dependency>
     <groupId>com.sangupta</groupId>
-    <artifactId>jerry-core</artifactId>
+    <artifactId>unwind</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
@@ -65,7 +65,7 @@ For transparency and insight into our release cycle, and for striving to maintai
 
 Releases will be numbered with the follow format:
 
-	`<major>.<minor>.<patch>`
+	<major>.<minor>.<patch>
 
 And constructed with the following guidelines:
 
